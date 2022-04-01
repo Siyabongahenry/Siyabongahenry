@@ -6,5 +6,4 @@ I developed interest in coding and decided to enroll for extra courses in udemy 
 I am currently working on my ecommerce website, which I have been building for 5 plus months while learning Asp.net core MVC. I chose to build an ecommerce website because it seemed to 
 be challenging, therefore it has helped me to nourish my coding skills.
 
-My contact details:
-Email: siyabongahenry23@gmail.com 
+I can be contacted using this email: siyabongahenry23@gmail.com
