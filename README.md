@@ -1,4 +1,4 @@
-I am Siyabonga Vilakazi.  
+I am **Siyabonga Vilakazi**.  
 I taught myself the front end and the back end of web development.  
 In the front end I have strong skills in Javascript,html and css.   
 In the back end I rely on Asp.net Core MVC.  
