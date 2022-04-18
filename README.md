@@ -5,7 +5,7 @@ In the back end I rely on Asp.net Core MVC.
 For databases I undestand and know most SQL syntax, but for my websites I prefer EF Core.  
 
 Contacts:
-siyabongahenry23@gmail.com
+siyabongahenry23@gmail.com  
 Alternatives:
 vilakazish23@gmail.com
 
