@@ -1,2 +1,4 @@
-I am Siyabonga Vilakazi
-I am self taught full stack web developer using asp.net core mvc
+I am Siyabonga Vilakazi.  
+I taught myself the front end and the back end of web development.    
+
+
