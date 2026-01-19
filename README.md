@@ -21,8 +21,7 @@ A data analytics and automation platform designed to simplify workflows and empo
 
 ## 📫 Connect With Me
 - 🌐 Website: [www.steinalytics.co.za](https://www.steinalytics.co.za)  
-- 💼 LinkedIn: Siyabonga Vilakazi  
-- 
+- 💼 LinkedIn: Siyabonga Vilakazi   
 
 
 
