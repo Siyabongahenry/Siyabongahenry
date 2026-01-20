@@ -1,10 +1,10 @@
 # Hi there 👋
 
 ## About Me
-- 🔹 Specialized in **Python (FastAPI)** for building high-performance backend services  
-- 🔹 Skilled in **ReactJS** for crafting modern, responsive front-end applications  
-- 🔹 Experienced in managing my own **AWS cloud infrastructure** for scalable deployments  
-- 🔹 Currently working on **[Steinalytics](https://www.steinalytics.co.za)** — a platform focused on **data analytics** and **Excel automation**
+ 🔹 Specialized in **Python (FastAPI)** for building high-performance backend services  
+ 🔹 Skilled in **ReactJS** for crafting modern, responsive front-end applications  
+ 🔹 Experienced in managing my own **AWS cloud infrastructure** for scalable deployments  
+ 🔹 Currently working on **[Steinalytics](https://www.steinalytics.co.za)** — a platform focused on **data analytics** and **Excel automation**
 
 ## Tech Stack
 - **Backend:** FastAPI, Python  
