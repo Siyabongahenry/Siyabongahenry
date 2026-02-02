@@ -22,7 +22,7 @@ A [FastAPI backend](https://github.com/Siyabongahenry/SteinalyticsReportAPI) ser
 
 **Steinalytics Frontend**  
 A [ReactJS frontend](https://github.com/Siyabongahenry/steinalytics-frontend) application that integrates with the backend API.  
-**Tools & Technologies:** ReactJS, JavaScript, HTML, CSS, Redux, Material-UI/TailwindCSS, AWS Cognito, AWS Amplify, S3 + CloudFront  
+**Tools & Technologies:** Vite + ReactJS, JavaScript, HTML, CSS, TailwindCSS, AWS Cognito, S3 + CloudFront  
 
 🌐 Live site: [www.steinalytics.com](https://www.steinalytics.com)
 
