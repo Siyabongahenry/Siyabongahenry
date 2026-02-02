@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi there
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
 ![FastAPI](https://img.shields.io/badge/FastAPI-Backend-green?logo=fastapi)
@@ -12,7 +12,7 @@
 🔹 Experienced in managing my own **AWS cloud infrastructure** for scalable deployments  
 🔹 Currently working on **[Steinalytics](https://www.steinalytics.co.za)** — a platform focused on **data analytics** and **Excel automation**
 
-## 🚀 Featured Repositories
+## Featured Repositories
 
 **Steinalytics Backend**  
 A [FastAPI backend](https://github.com/Siyabongahenry/SteinalyticsReportAPI) service for automating Excel report generation and management.  
