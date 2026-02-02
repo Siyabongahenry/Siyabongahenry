@@ -30,7 +30,7 @@ A [ReactJS frontend](https://github.com/Siyabongahenry/steinalytics-frontend) ap
 
 ## 🔗 Communication Flow
 
-
+```text
 +---------------------+          HTTPS Requests          +---------------------+
 |  Steinalytics       |  ----------------------------->  |  Steinalytics       |
 |  Frontend (ReactJS) |                                   |  Backend (FastAPI)  |
@@ -52,7 +52,7 @@ A [ReactJS frontend](https://github.com/Siyabongahenry/steinalytics-frontend) ap
 | Access via Browser  |
 +---------------------+
 
-
+```
 
 ---
 
