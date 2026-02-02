@@ -31,8 +31,8 @@ A [ReactJS frontend](https://github.com/Siyabongahenry/steinalytics-frontend) ap
 ## 🔗 Communication Flow
 
 
-+---------------------+          HTTPS Requests           +---------------------+
-|  Steinalytics       |  ----------------------------->   |  Steinalytics       |
++---------------------+          HTTPS Requests          +---------------------+
+|  Steinalytics       |  ----------------------------->  |  Steinalytics       |
 |  Frontend (ReactJS) |                                   |  Backend (FastAPI)  |
 |  - Hosted on S3     |                                   |  - Hosted on EC2/ECS|
 |  - CloudFront CDN   |                                   |  - Auth via Cognito |
@@ -51,6 +51,7 @@ A [ReactJS frontend](https://github.com/Siyabongahenry/steinalytics-frontend) ap
 | End Users           |
 | Access via Browser  |
 +---------------------+
+
 
 
 ---
