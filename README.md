@@ -16,13 +16,13 @@
 
 **Steinalytics Backend**  
 A [FastAPI backend](https://github.com/Siyabongahenry/SteinalyticsReportAPI) service for automating Excel report generation and management.  
-**Tools & Technologies:** FastAPI, Python, AWS Cognito, EC2, ECS, ECR, Auto Scaling, Target Groups, Load Balancer, Route 53, Docker, Nginx, Pandas, NumPy, S3, DynamoDB  
+**Tools & Technologies:** FastAPI, Python, AWS Cognito, EC2, ECS, ECR, Auto Scaling, Target Groups, Load Balancer, Route 53, Docker, Nginx, Pandas, S3, DynamoDB, Event Bridge, Lambda
 
 ---
 
 **Steinalytics Frontend**  
 A [ReactJS frontend](https://github.com/Siyabongahenry/steinalytics-frontend) application that integrates with the backend API.  
-**Tools & Technologies:** Vite + ReactJS, JavaScript, HTML, CSS, TailwindCSS, AWS Cognito, S3 + CloudFront  
+**Tools & Technologies:** Vite + ReactJS, JavaScript, HTML, CSS, TailwindCSS, AWS Cognito, S3 + CloudFront, API Gateway
 
 🌐 Live site: [www.steinalytics.com](https://www.steinalytics.com)
 
